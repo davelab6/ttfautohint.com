@@ -1,3 +1,8 @@
+---
+layout: default
+title: Font Hinting Made Fast, Easy and Free - TTFAutohint
+permalink: /
+---
 # What does TTFAutohint do now?
 
 The ttfautohint library brings the excellent quality of FreeType rendering to platforms that don’t use FreeType, yet require hinting for text to look good – like Microsoft Windows. 
