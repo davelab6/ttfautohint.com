@@ -75,8 +75,8 @@ TODO: donate prompt
 
 TODO: 
 
-Now, if you wanna geek out more about this, click here to read more about it. [ttfautohint manual]
+Now, if you wanna geek out more about this, read more about it in the [ttfautohint manual](http://freetype.org/ttfautohint/doc/ttfautohint.html)
 
 #### Thanks
 
-This website was put together by Neil Summerour and Dave Crossland to help the developer of ttfautohint, Werner Lemberg, take it to the next level. 
+This website was put together by [Neil Summerour](http://positype.com) and [Dave Crossland](http://craftingtype.com) to help the developer of ttfautohint, Werner Lemberg, take it to the next level. 
