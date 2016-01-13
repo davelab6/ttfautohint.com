@@ -3,36 +3,38 @@ layout: default
 title: Font Hinting Made Fast, Easy and Free - TTFAutohint
 permalink: /
 ---
-# What does TTFAutohint do now?
 
-The ttfautohint library brings the excellent quality of FreeType rendering to platforms that don’t use FreeType, yet require hinting for text to look good – like Microsoft Windows. 
-Roughly speaking, it uses the glyph analysis done by FreeType’s auto-hinter to create TrueType hinting inside font files. 
-Better hinting means better rendering webfonts. 
+# What is TTFAutohint?
+
+Font designers use TTFAutohint to make their fonts look good on every kind of computer with almost no work.
+
+Hinting is a kind of code that font designers include in TrueType fonts so that they look good on Windows. 
+The FreeType project develops deep operating system code to render fonts on-screen that is available to everyone as free/libre/open-source software.
+FreeType is used in Android, GNU+Linux, iOS, Palm, and many other systems because it has excellent rendering quality, even if fonts do not have hinting. 
+Unlike Windows, it performs a letterform analysis and adjusts fonts so that they look good automatically. 
+
+TTFAutohint converts that analysis into hinting that can be saved inside font files, so they look good on Windows too.
+Everyone benefits from better hinting, because it means better web fonts. 
+
+# What This Next Funded Update Will Produce
 
 There are no surprises with TTFAutohint. 
 It already works. 
 Period. 
 But it has potential to become even better.
 
-# What This Next Funded Update Will Produce
+There are three main goals ahead: 
 
-There are two main goals for next version of TTFAutohint: 
-
-1. design a simple GUI to craft final hint adjustments, and
-2. produce a plugin of that GUI for Glyphs, Robofont, and TruFont.
+1. offer expanded language support,
+2. design a simple GUI to craft final hint adjustments, and
+3. produce a plugin of that GUI for Glyphs, Robofont, and TruFont.
 
 # Language Support
 
-The Google Internationalization team has commissioned the further of development of ttfautohint to support more scripts throughout 2015 and 2016. 
-[Review and compare the quality of various Noto fonts with no hinting, hand hinting, and ttfautohint hinting](https://rawgit.com/lemzwerg/noto-hinted/master/)
-
-
-# Chasing Waterfalls
-
 Side-by-side comparisons should speak volumes to you. 
-Here we have one waterfall showing the result of a time-consuming and costly hinting job by a professional, and another made with TTFAutohint:
+Here we have one waterfall showing a font with no hinting, the result of a time-consuming and costly hinting job done by hand, and another made with TTFAutohint:
 
-TODO: Images
+TODO: Images from https://rawgit.com/lemzwerg/noto-hinted/master
 
 # It Already Works, See.
 
