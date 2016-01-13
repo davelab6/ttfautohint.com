@@ -73,10 +73,12 @@ TODO: donate prompt
 
 ## Timetables & Expectations
 
-TODO: 
+TODO: timetable
 
 Now, if you wanna geek out more about this, read more about it in the [ttfautohint manual](http://freetype.org/ttfautohint/doc/ttfautohint.html)
 
-#### Thanks
+# Thanks
 
 This website was put together by [Neil Summerour](http://positype.com) and [Dave Crossland](http://craftingtype.com) to help the developer of ttfautohint, Werner Lemberg, take it to the next level. 
+
+If you'd like to contribute to this site, visit [github.com/davelab6/ttfautohint.com](https://github.com/davelab6/ttfautohint.com)
