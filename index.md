@@ -16,13 +16,16 @@ But it has potential to become even better.
 
 # What This Next Funded Update Will Produce
 
-There are three main goals for next version of TTFAutohint: 
+There are two main goals for next version of TTFAutohint: 
 
-1. offer expanded language support,
+1. design a simple GUI to craft final hint adjustments, and
+2. produce a plugin of that GUI for Glyphs, Robofont, and TruFont.
 
-2. design a simple GUI to craft final hint adjustments,
+# Language Support
 
-3. produce a plugin of that GUI for both Glyphs and Robofont.
+The Google Internationalization team has commissioned the further of development of ttfautohint to support more scripts throughout 2015 and 2016. 
+[Review and compare the quality of various Noto fonts with no hinting, hand hinting, and ttfautohint hinting](https://rawgit.com/lemzwerg/noto-hinted/master/)
+
 
 # Chasing Waterfalls
 
