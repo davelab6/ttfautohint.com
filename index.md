@@ -64,6 +64,8 @@ TODO: include the O's and Q's imagery
 
 TODO: link to further info
 
+<https://ilovetypography.com/2016/07/14/making-fonts-proza-libre/>
+
 # Making It Work For Today's Type Design Apps
 
 Glyphs and Robofont are now the center of your workflow. 
